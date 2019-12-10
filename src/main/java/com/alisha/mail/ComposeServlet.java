@@ -35,7 +35,7 @@ public class ComposeServlet extends HttpServlet {
 		
 		request.getRequestDispatcher("footer.html").include(request, response);
 		out.close();
-
+		// Hi Alisha
 	}
 
 }
