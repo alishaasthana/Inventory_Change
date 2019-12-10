@@ -1,0 +1,16 @@
+com\alisha\mail\ComposeDao.class
+com\alisha\mail\ConProvider.class
+com\alisha\mail\DeleteMailServlet.class
+com\alisha\mail\LoginServlet.class
+com\alisha\mail\RegisterDao.class
+com\alisha\mail\ComposeServletProcess.class
+com\alisha\mail\PermanentDeleteMailServlet.class
+com\alisha\mail\SentServlet.class
+com\alisha\mail\InboxServlet.class
+com\alisha\mail\ViewMailServlet.class
+com\alisha\mail\RegisterServlet.class
+com\alisha\mail\TrashServlet.class
+com\alisha\mail\ComposeServlet.class
+com\alisha\mail\Formatter.class
+com\alisha\mail\LogoutServlet.class
+com\alisha\mail\LoginDao.class
